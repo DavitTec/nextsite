@@ -22,8 +22,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2 
-      - uses: actions/setup-node@v2.5.1
-      - run: npm install -g yarn
-      - run: yarn install --frosen-lockfile
-      - run: yarn build
+      - uses: actions/setup-node@v2.5.1  
+      - uses: anorcle/next-pages@v1.0
+
      
