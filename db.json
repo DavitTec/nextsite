@@ -1,0 +1,29 @@
+{
+    "team": [
+      {
+        "role": "team",
+        "ownerName": "David",
+        "details": "some detail about David Mullins"
+      },
+      {
+        "role": "team",
+        "ownerName": "Bruno Antunes",
+        "details": "some detail about Bruno's Bike"
+      },
+      {
+        "role": "team",
+        "ownerName": "John Doe",
+        "details": "some detail bile"
+      },
+      {
+        "role": "volunteer",
+        "ownerName": "Bill Gates",
+        "details": "some detail Bill Gates"
+      } ,
+      {
+        "role": "volunteer",
+        "ownerName": "Elon Musk",
+        "details": "some detail Elon"
+      }
+    ]
+  }
