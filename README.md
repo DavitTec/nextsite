@@ -1,12 +1,12 @@
-Hosting a Next.js website with GitHub Pages example
-
 ## Getting Started
-
-Back to Basics
 
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/davittec/nextsite?label=version&logo=davit&sort=semver)
 ![node-lts](https://img.shields.io/node/v/next?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/davittec/nextsite?style=flat-square)
+
+
+Hosting a Next.js website with GitHub Pages example
+
 
 First, run the development server:
 
