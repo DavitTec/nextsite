@@ -4,7 +4,9 @@ Hosting a Next.js website with GitHub Pages example
 ## Getting Started
 
 Back to Basics
-Version 0.0.1
+
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/davittec/nextsite?label=version&logo=davit&sort=semver)
+![node-lts](https://img.shields.io/node/v-lts/nextsite?style=flat-square)
 
 First, run the development server:
 
@@ -38,11 +40,9 @@ npm run dev # run the development
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. 
+You can start editing the page by modifying `pages/index.js`.
 The page auto-updates as you edit the file.
 
 
 ## References
 https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn
-
-
