@@ -13,14 +13,14 @@ First, run the development server:
 1. npm update
 2. npm run mock-server
 3. open another terminal and  npm run dev
-4.
+
 
 ## Steps
 
  - [ ] Setting up basic Next Development
  - [ ] adding a json database -  flatfile
  - [ ] Converting to Typescript
- - [ ] 
+
 
 ## References
 https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn
