@@ -4,7 +4,7 @@ import styles from "../public/css/Home.module.css";
 import favIcon from "../public/favicon.ico";
 import myLogo from "../public/DLogo.svg";
 
-const version = "Version 0.1.1";
+const version = "Version 0.1.2";
 
 
 export default function Home() {
