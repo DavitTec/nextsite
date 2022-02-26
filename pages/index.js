@@ -4,6 +4,9 @@ import styles from "../public/css/Home.module.css";
 import favIcon from "../public/favicon.ico";
 import myLogo from "../public/DLogo.svg";
 
+const version = "Version 0.1.1";
+
+
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -22,7 +25,7 @@ export default function Home() {
           <code className={styles.code}>pages/index.js</code>
         <h2>Deploy &rarr;</h2>
         <span className={styles.version}>
-              Version 0.0.1
+              {version}
             </span>
     </p>
         <div className={styles.grid}>
