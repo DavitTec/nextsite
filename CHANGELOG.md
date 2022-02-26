@@ -13,7 +13,7 @@
 # 0.1.0 (2022-02-16)
 | Commit | Type | Description |
 | -- | -- | -- |
-| xxx  | ???  | initial Commit   |
+| 0.0.1  | add  | initial Commit   |
 |   |   |   |
 
 
