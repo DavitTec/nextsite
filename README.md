@@ -11,12 +11,11 @@ Back to Basics
 First, run the development server:
 
 1. Choose a place to run a local copy and open the terminal
-1. Get copy from server  eg
+1. Get copy from Github  eg
 
 ![Clone](public/img/clone.png)
 
-and copy the following into the terminal
-This will create a appropriate location or change to suit your preferences.
+and copy the following into the terminal. This will create a appropriate location or change to suit your preferences.
 ```bash
 mkdir -p "$HOME/GitHub/DavitTec/"
 git clone https://github.com/DavitTec/nextsite.git $HOME/GitHub/DavitTec/nextsite
