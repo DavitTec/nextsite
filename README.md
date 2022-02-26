@@ -3,7 +3,7 @@ Hosting a Next.js website with GitHub Pages example
 
 ## Getting Started
 
-Version 0.1.1
+Version 0.1.2
 
 First, run the development server:
 
@@ -14,6 +14,13 @@ First, run the development server:
 2. npm run mock-server
 3. open another terminal and  npm run dev
 4.
+
+## Steps
+
+ - [ ] Setting up basic Next Development
+ - [ ] adding a json database -  flatfile
+ - [ ] Converting to Typescript
+ - [ ] 
 
 ## References
 https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn
