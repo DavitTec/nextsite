@@ -1,4 +1,4 @@
-## Getting Started
+## NextSite - Getting Started
 
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/davittec/nextsite?label=version&logo=davit&sort=semver)
 ![node-lts](https://img.shields.io/node/v/next?style=flat-square)
