@@ -6,7 +6,7 @@ Hosting a Next.js website with GitHub Pages example
 Back to Basics
 
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/davittec/nextsite?label=version&logo=davit&sort=semver)
-![node-lts](https://img.shields.io/node/v-lts/nextsite?style=flat-square)
+![node-lts](https://img.shields.io/node/v/next?style=flat-square)
 
 First, run the development server:
 
