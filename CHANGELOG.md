@@ -4,8 +4,8 @@
 | Commit | Type | Description | src |
 |:--- | --- |:--- | ---:|
 |0.1.2-dev| fix | some src changes to jsx Typescript                             |                                                   |
-|0.1.2 | fix | moved sources to /src                           | 
-|0.1.1 | fix | remodel some base files and added json database                |  [1](https://github.com/DavitTec/nextsite/tree/v0.1.0) |
+|0.1.2 | fix | moved sources to /src                           |  [2](https://github.com/DavitTec/nextsite/releases/tag/v0.1.2) |
+|0.1.1 | fix | remodel some base files and added json database                |  [1](https://github.com/DavitTec/nextsite/releases/tag/v0.1.1) |
 
 
 
