@@ -1,9 +1,10 @@
-<a name="0.1.2-dev"></a>
-# 0.1.2-dev (2022-02-25)
+<a name="0.1.2"></a>
+# 0.1.2 (2022-02-25)
 
 | Commit | Type | Description | src |
 |:--- | --- |:--- | ---:|
-|0.1.2 | fix | some src changes to jsx Typescript                             |                                                   |
+|0.1.2-dev| fix | some src changes to jsx Typescript                             |                                                   |
+|0.1.2 | fix | moved sources to /src                           | 
 |0.1.1 | fix | remodel some base files and added json database                |  [1](https://github.com/DavitTec/nextsite/tree/v0.1.0) |
 
 

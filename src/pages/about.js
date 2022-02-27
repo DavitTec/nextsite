@@ -1,8 +1,8 @@
 // about
 import Head from "next/head";
 import Image from "next/image";
-import styles from "../public/css/Home.module.css";
-import myLogo from "../public/DLogo.svg";
+import styles from "../styles/Home.module.css";
+import myLogo from "/public/DLogo.svg";
 
 const myLoader = ({ src, width, quality }) => {
   return `/${src}?w=${width}&q=${quality || 75}`

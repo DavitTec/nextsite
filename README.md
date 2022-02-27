@@ -62,3 +62,5 @@ NPM:	8.5.1
 
 ## References
 https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn
+
+v0.1.2

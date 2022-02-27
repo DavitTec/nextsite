@@ -1,8 +1,8 @@
 import Head from "next/head";
 import Image from "next/image";
-import styles from "../public/css/Home.module.css";
-import favIcon from "../public/favicon.ico";
-import myLogo from "../public/DLogo.svg";
+import styles from "../styles/Home.module.css";
+import favIcon from "/public/favicon.ico";
+import myLogo from "/public/DLogo.svg";
 
 const version = "Version 0.1.2";
 
